@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "859053026545",
+    "project_id": "eboook-848dc",
+    "storage_bucket": "eboook-848dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:859053026545:android:fff295a4ee164c242d8d50",
+        "android_client_info": {
+          "package_name": "com.azamovhudstc.ebook_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "859053026545-h34rfdgpvpcnacpctv30325osp7hlsvj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFjJLOwtKR_yL-DuZKfqFufVdJygwwUuE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "859053026545-h34rfdgpvpcnacpctv30325osp7hlsvj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
